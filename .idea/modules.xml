@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EasyPaasCloud.iml" filepath="$PROJECT_DIR$/EasyPaasCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EasyPaasCloudCf/EasyPaasCloudCf.iml" filepath="$PROJECT_DIR$/EasyPaasCloudCf/EasyPaasCloudCf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EasyPaasCloudModel/EasyPaasCloudModel.iml" filepath="$PROJECT_DIR$/EasyPaasCloudModel/EasyPaasCloudModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EasyPaasCloudUtil/EasyPaasCloudUtil.iml" filepath="$PROJECT_DIR$/EasyPaasCloudUtil/EasyPaasCloudUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EasyPaasCloudWeb/EasyPaasCloudWeb.iml" filepath="$PROJECT_DIR$/EasyPaasCloudWeb/EasyPaasCloudWeb.iml" />
+    </modules>
+  </component>
+</project>

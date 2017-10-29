@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easy_paas_web" />
+        <module name="EasyPaasCloudCf" />
+        <module name="EasyPaasCloudModel" />
+        <module name="EasyPaasCloudUtil" />
+        <module name="EasyPaasCloudWeb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easy_paas_web" target="1.8" />
+      <module name="EasyPaasCloud" target="1.8" />
+      <module name="EasyPaasCloudCf" target="1.8" />
+      <module name="EasyPaasCloudModel" target="1.8" />
+      <module name="EasyPaasCloudUtil" target="1.8" />
+      <module name="EasyPaasCloudWeb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
